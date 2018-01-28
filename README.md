@@ -17,7 +17,7 @@ Go to project main directory then run below MAVEN command
 mvn clean package
 ```
 
-###Parameters:
+### Parameters:
 
 The application takes 2 parameters as input.
 
